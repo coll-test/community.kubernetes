@@ -1,0 +1,23 @@
+plugin_routing:
+  lookup:
+    openshift:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+  modules:
+    k8s_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    k8s_raw:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    openshift_raw:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    openshift_scale:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
